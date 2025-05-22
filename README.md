@@ -87,13 +87,6 @@ npm run dev
 
 Create a `.env` file if needed:
 
-## 🌐 Live Demo
-
-**Frontend Deployment:** [Vercel/Netlify Link here]  
-**Backend Deployment:** [Render/Heroku link here]
-
----
-
 ## 🧑‍💻 Author
 
 **Submitted By:** Muhammad Maaz
